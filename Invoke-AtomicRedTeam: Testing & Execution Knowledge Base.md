@@ -1,4 +1,3 @@
-
 # Invoke-AtomicRedTeam: Testing and Execution Guide
 
 > **OPSEC Directive**: In offensive security evaluations, Operations Security (OPSEC) is critical. Never run `Invoke-AtomicTest All` blindly in a production or monitored environment. Always stage prerequisites, execute targeted tests, and immediately clean up artifacts to maintain full control of the engagement.
@@ -11,8 +10,6 @@
 - [4. OPSEC and Artifact Cleanup](#4-opsec-and-artifact-cleanup)
 - [5. Advanced Automation (Controlled Execution Loop)](#5-advanced-automation-controlled-execution-loop)
 - [6. Troubleshooting Quick Reference](#6-troubleshooting-quick-reference)
-
----
 
 ## Glossary
 
@@ -27,7 +24,6 @@
 | **OPSEC** | Operations Security. The practice of hiding or managing indicators of an operation to prevent defenders from detecting the activity. |
 | **YAML** | The file format used by Atomic Red Team to define test metadata, attack commands, dependencies, and cleanup routines. |
 
----
 
 ## 1. Setup and Configuration
 
