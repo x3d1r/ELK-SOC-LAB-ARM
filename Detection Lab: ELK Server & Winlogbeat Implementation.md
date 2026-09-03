@@ -2,6 +2,16 @@
 
 This document details the architecture, installation, and configuration of a self-managed Elastic Stack (ELK) server on Ubuntu ARM64, paired with Winlogbeat on a Windows 11 ARM endpoint. It also explains the persistence mechanisms that guarantee continuous log shipping.
 
+## Table of Contents
+- [1. Architecture](#Architecture-Overview)
+- [2. ELK Server Implementation (Ubuntu ARM64)](#2.-ELK-Server-Implementation-(Ubuntu-ARM64))
+- [3. Windows 11 ARM Endpoint Configuration](#3.-Windows-11-ARM-Endpoint-Configuration)
+- [4. Winlogbeat Installation & Configuration](#4.-Winlogbeat-Installation-&-Configuration)
+- [5. Persistence Mechanisms](#5-Persistence-Mechanisms)
+- [6. Verification & ES|QL Queries](#6-Verificatio-&-ES|QL-Queries)
+
+
+
 ## 1. Architecture Overview
 
 | Component | OS / Platform | Role |
