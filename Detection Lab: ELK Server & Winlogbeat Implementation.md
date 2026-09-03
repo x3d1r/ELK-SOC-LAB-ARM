@@ -4,9 +4,9 @@ This document details the architecture, installation, and configuration of a sel
 
 ## Table of Contents
 - [1. Architecture](#Architecture-Overview)
-- [2. ELK Server Implementation (Ubuntu ARM64)](#2.-ELK-Server-Implementation-(Ubuntu-ARM64))
-- [3. Windows 11 ARM Endpoint Configuration](#3.-Windows-11-ARM-Endpoint-Configuration)
-- [4. Winlogbeat Installation & Configuration](#4.-Winlogbeat-Installation-&-Configuration)
+- [2. ELK Server Implementation (Ubuntu ARM64)](#2-ELK-Server-Implementation-Ubuntu-ARM64)
+- [3. Windows 11 ARM Endpoint Configuration](#3-Windows-11-ARM-Endpoint-Configuration)
+- [4. Winlogbeat Installation & Configuration](#4-Winlogbeat-Installation-&-Configuration)
 - [5. Persistence Mechanisms](#5-Persistence-Mechanisms)
 - [6. Verification & ES|QL Queries](#6-Verificatio-&-ES|QL-Queries)
 
