@@ -1,4 +1,4 @@
-```markdown
+
 # Invoke-AtomicRedTeam: Testing and Execution Guide
 
 > **OPSEC Directive**: In offensive security evaluations, Operations Security (OPSEC) is critical. Never run `Invoke-AtomicTest All` blindly in a production or monitored environment. Always stage prerequisites, execute targeted tests, and immediately clean up artifacts to maintain full control of the engagement.
